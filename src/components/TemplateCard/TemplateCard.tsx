@@ -7,7 +7,8 @@ export const TemplateCard = ({ imageUrl, demoUrl }: TemplateCardProps) => {
       <div className="relative group">
         <img 
           src={imageUrl} 
-          className="w-full h-96 object-cover"
+          alt="Template preview" 
+          className="w-full h-96 object-cover object-top"
         />
         <div className="absolute inset-0 bg-black bg-opacity-30 md:bg-opacity-0 md:group-hover:bg-opacity-30 transition-all duration-300 flex items-center justify-center">
           <a
