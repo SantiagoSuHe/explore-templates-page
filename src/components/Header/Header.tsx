@@ -14,7 +14,7 @@ export const Header = () => {
         </h1>
       </div>
       <p className="text-sm md:text-base text-gray-300 text-center mt-2">
-        Browse through our collection of beautiful, responsive templates
+        Explora nuestras plantillas de muestra, diseñadas para verse increíbles en web y móvil.
       </p>
     </header>
   );
