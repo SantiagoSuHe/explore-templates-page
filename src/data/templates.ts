@@ -11,32 +11,32 @@ export const templates: Template[] = [
   {
     id: 1,
     imageUrl: {
-      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/1._Desktop_Sample_r3kasf.png",
-      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/1._Desktop_Sample_es_r3kasf.png"
+      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618825/4-en_i8ybo1.png",
+      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618825/4-es_nebulj.png"
     },
     demoUrl: "https://template4.menunow.xyz"
   },
   {
     id: 2,
     imageUrl: {
-      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/3._Desktop_Sample_j1vmvr.png",
-      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/3._Desktop_Sample_es_j1vmvr.png"
+      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618824/3-en_suxxkc.png",
+      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618825/3-es_ape15p.png"
     },
     demoUrl: "https://template3.menunow.xyz"
   },
   {
     id: 3,
     imageUrl: {
-      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/2._Desktop_Sample_w9jg36.png",
-      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/2._Desktop_Sample_es_w9jg36.png"
+      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618824/2-en_f0d4x6.png",
+      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618824/2-es_zvxxnq.png"
     },
     demoUrl: "https://template2.menunow.xyz"
   },
   {
     id: 4,
     imageUrl: {
-      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/4._Desktop_Sample_qyad8w.png",
-      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1733981949/4._Desktop_Sample_es_qyad8w.png"
+      en: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618823/1-en_wcdqzg.png",
+      es: "https://res.cloudinary.com/du5i6ansa/image/upload/v1735618824/1-es_jz41bo.png"
     },
     demoUrl: "https://template1.menunow.xyz"
   }
